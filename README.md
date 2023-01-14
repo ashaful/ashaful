@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashaful Azim</h1>
+<h1 align="center">Ashaful Azim</h1>
 <h3 align="center">Full Stack Web Developer (Python & JavaScript)</h3>
 
 - 🌱 I’m currently learning **Django**
