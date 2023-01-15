@@ -6,8 +6,8 @@ I recently graduated in Computer Science and Engineering from the **Port City In
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Django**
-- 📫 How to reach me
-      :Email: **ashafulazim@gmail.com**
+- 📫 How to reach me  </br>
+      :Email: **ashafulazim@gmail.com** </br>
       :handshake: Also making connections on [Linkedin](https://www.linkedin.com/in/ashaful/)
 
 <h3 align="left">Languages and Tools:</h3>
