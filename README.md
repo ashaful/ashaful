@@ -5,10 +5,10 @@ I graduated in Computer Science and Engineering from the **Port City Internation
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Product Management, Data Analytics**
+- 🌱 I’m currently learning **Django, Product Management **
 - 📫 How to reach me : </br>
       Email: **ashafulazim@gmail.com** </br>
     :handshake: Also making connections on [Linkedin](https://www.linkedin.com/in/ashaful/)
 
 <h3 align="left">Languages and Tools:</h3>
-Python, Django, SQL, NLP 
+Python, Django, SQL, NLP , Product Management 
