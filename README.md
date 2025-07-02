@@ -1,14 +1,22 @@
-# Hi there, I am Ashaful Azim 
+# Hi there, I'm Ashaful Azim 👋
 
-## About Me:  :alien: 
-Aspiring tech professional with a strong foundation in web technologies, programming, and problem-solving. With hands-on experience in developing web applications, working with databases, and managing projects using various tools and frameworks, I am eager to apply my skills in a dynamic environment. I am seeking opportunities to grow, contribute to impactful projects, and establish a strong career in the tech industry.
+## 👨‍💻 About Me
+I'm an **aspiring tech professional** and currently working as an **Odoo Developer at Betopia Group**. I have a strong foundation in **web technologies**, **Python**, and **problem-solving**. Passionate about building scalable applications, working with real business workflows, and contributing to impactful projects.
 
-<img align="right" alt="" width="400" src="https://drive.google.com/file/d/1kR74_kmf47i51YksAtu7C_N-N_cDBvKS/view?usp=sharing">
+I'm eager to grow in a dynamic environment, continuously improve my skills, and explore full-stack development with **Django** and **PostgreSQL**.
 
-- 🌱 I’m currently learning **Django**
-- 📫 How to reach me : </br>
-      Email: **ashafulazim@gmail.com** </br>
-    :handshake: Also making connections on [Linkedin](https://www.linkedin.com/in/ashaful/)
+<img align="right" alt="Ashaful's Avatar" width="400" src="https://drive.google.com/uc?export=view&id=1kR74_kmf47i51YksAtu7C_N-N_cDBvKS" />
 
-<h3 align="left">Languages and Tools:</h3>
-Python, Django, SQL, RESTful APIs, NLP , Product Management , LaTeX, JIRA
+- 🔭 Currently working as an **Odoo Developer**
+- 🌱 Exploring **Django**, **RESTful APIs**, and **Software Architecture**
+- 📬 Email me: [ashafulazim@gmail.com](mailto:ashafulazim@gmail.com)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashaful/)
+- 💡 Fun Fact: I love simplifying complex workflows into clean, automated systems.
+
+---
+
+## 🛠️ Technologies & Tools I Use
+```bash
+Odoo • Python • Django • PostgreSQL • SQL • REST APIs
+NLP • LaTeX • HTML/CSS • JIRA • Git • GitHub
+
