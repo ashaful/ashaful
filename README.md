@@ -11,7 +11,6 @@ I'm eager to grow in a dynamic environment, continuously improve my skills, and 
 - 🌱 Exploring **Django**, **RESTful APIs**, and **Software Architecture**
 - 📬 Email me: [ashafulazim@gmail.com](mailto:ashafulazim@gmail.com)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashaful/)
-- 💡 Fun Fact: I love simplifying complex workflows into clean, automated systems.
 
 ---
 
